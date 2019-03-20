@@ -1,4 +1,4 @@
-#Gulp configuration example
+# Gulp configuration example
 
 An example configuration to demonstrate the usage of some common Gulp plugins.
 
